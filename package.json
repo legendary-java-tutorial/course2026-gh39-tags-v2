@@ -1,0 +1,17 @@
+{
+  "name": "translit",
+  "version": "0.2.0",
+  "description": "Транслитерация кириллицы латиницей по выбранному алфавиту",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "typescript": "^5.9.0"
+  }
+}
