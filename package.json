@@ -1,6 +1,6 @@
 {
   "name": "translit",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Транслитерация кириллицы латиницей по выбранному алфавиту",
   "type": "module",
   "main": "dist/index.js",
